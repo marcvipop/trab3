@@ -3,20 +3,14 @@
 -                                                                                                -
 -                             Criado por Vinícius T. Parente  					 -
 -				    e Felipe barros			    	  		 -
--                             Feito em java pela IDE NETBEANS				         -
+-                             Feito em Python pela IDE IDLE				         -
 -												 -
--OBS0.:para executar o código, copie a pasta "trab3" para sua pasta de projetos do NETBEANS e    -
--logo ao abrir o NETBEANS, abra o projeto "trab3" e execute o código na classe trab3.		 -
+-OBS0.:para executar o código, execute o arquivo "trab3" com a IDE IDLE 3.6 32bits               -
 -											       	 -
--OBS1.: o programa cria uma pasta no local:							 -
--logo o mesmo precisa de permição de alterar dados no local citado para funcionar.		 -
+-OBS1.: o programa trabalha com vetores, não nescessita de banco de dados			 -				 -
 -												 -
--OBS2.: para resetar os dados salvos, após fechar o programa, execute novamente e depois digite 7- 
--sem usar nenhuma modificação									 -	
--												 -
--OBS3.:o sistema de numeração de códigos do veículo depende do usuária, logo recomenda-se criar  -
--sequência de números e sempre consultar o códigos já existentes para não entrar em conflito.    -
--												 -
--OBS4.:Você não pode alugar veículos em datas futuras, apenas reservar eles.                	 -
+-OBS2.: para resetar os dados salvos, após fechar o programa, execute novamente   		 - 
+- 												 -	
+-OBS3.:Você não pode alugar veículos em datas futuras, apenas reservar eles.                	 -
 -________________________________________________________________________________________________-
 											 
