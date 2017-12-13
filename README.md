@@ -1,7 +1,8 @@
 # trab3
  ____________________________________OBSERVAÇÕES_________________________________________________
 -                                                                                                -
--                             Criado por Vinícius T. Parente                                     -
+-                             Criado por Vinícius T. Parente  					 -
+-				    e Felipe barros			    	  		 -
 -                             Feito em java pela IDE NETBEANS				         -
 -												 -
 -OBS0.:para executar o código, copie a pasta "trab3" para sua pasta de projetos do NETBEANS e    -
